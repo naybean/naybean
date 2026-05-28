@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there, it's Yeabean :sparkles:
+- Bioinformatics & AI Researcher
+- Interested in Multiomics, Cheminformatics, Multimodal deep learning and Explainable AI(XAI)
 
-<!--
-**naybean/naybean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mortar_board: Academic Background
+|Period|Institution|Department|
+|---|---|---|
+|2026.05 - Present|Korean Bioinformation Center(KOBIC)|Bio BigData|
+|2024.03 - 2026.02|Chonnam National University|M.S. in Intelligent Electronics and Computer Engineering|
+|2022.08 - 2026.02|Chonnam National University|Bio and Medical Informatics Laboratory (BMIL)|
+|2018.03 - 2024.02|Chonnam National University|B.S. in Biology|
