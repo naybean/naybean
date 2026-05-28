@@ -1,6 +1,6 @@
 ## Hi there, it's Yeabean :sparkles:
 - Bioinformatics & AI Researcher
-- Interested in Multiomics, Cheminformatics, Multimodal deep learning and Explainable AI(XAI)
+- Interested in Bigdata, Multiomics, Multimodal deep learning and Explainable AI(XAI)
 
 ## :mortar_board: Academic Background
 |Period|Institution|Department|
